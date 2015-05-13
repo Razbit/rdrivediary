@@ -1,0 +1,3 @@
+https://wiki.python.org/moin/CgiScripts
+http://www.tutorialspoint.com/python/python_cgi_programming.htm
+
