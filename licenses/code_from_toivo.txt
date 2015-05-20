@@ -1,0 +1,5 @@
+Some of the code used in this project comes from Toivo Koskinen (Urpo). His unmodified code can be found from the directory <from_toivo>. 
+
+His code is a Python-implemented driving diary some of whose functionality will be used in this project more or less as-is.
+
+His code is bundled and used in this project under his permission. Any derivative of this project (RDriveDiary) can use and bundle his code, as long as this copyright notice is kept with the code, and the code is distributed as-is.

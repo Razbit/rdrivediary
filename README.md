@@ -12,6 +12,9 @@ Note: Not everything is implemented yet.
 - trips (Length, time, place...)
 - multiple vehicle/driver profiles
 
+##Thanks
+- Toivo Koskinen for his code
+- All the folks at StackOverflow ;)
 
 Cheers,
 Eetu "Razbit" Pesonen
