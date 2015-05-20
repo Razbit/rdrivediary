@@ -1,13 +1,15 @@
 #Setting up Apache
 ##Ubuntu
 Install Apache and Python. Enable Apache's CGI functionality
-```sudo apt-get install apache2
+```
+sudo apt-get install apache2
 sudo apt-get install python
 sudo a2enmod cgi
 ```
 
 Add the following to your /etc/apache2/apache2.conf:
-```<Directory /var/www/path/to/rdrivediary/cgi-bin>
+```
+<Directory /var/www/path/to/rdrivediary/cgi-bin>
 	Options ExecCGI
 	SetHandler cgi-script
 </Directory>
