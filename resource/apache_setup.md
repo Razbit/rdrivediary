@@ -7,7 +7,7 @@ sudo apt-get install python
 sudo a2enmod cgi
 ```
 
-Add the following to your /etc/apache2/apache2.conf:
+Add the following to your /etc/apache2/apache2.conf. Substitute the path according to your deployment.
 ```
 <Directory /var/www/path/to/rdrivediary/cgi-bin>
 	Options ExecCGI

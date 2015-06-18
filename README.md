@@ -14,7 +14,7 @@ Note: Not everything is implemented yet.
 
 ##Thanks
 - Toivo Koskinen for his code
-- All the folks at StackOverflow ;)
+- All the folks at Stackoverflow ;)
 
 Cheers,
 Eetu "Razbit" Pesonen
